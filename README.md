@@ -2,7 +2,7 @@
 Explore and practice Prolog programming with examples, projects, and problem-solving exercises.
 
 ## /practices
-- kk.pl: The implementation of Knights and Knaves puzzles:
+- kk.pl: The implementation of Knights and Knaves puzzles.
   You are on an island where every inhabitant is either a knight or a knave. Knights always tell the truth, and knaves always lie.
 
   The program behaves as indicated below:
